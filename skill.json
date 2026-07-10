@@ -1,8 +1,8 @@
 {
   "name": "influencer-match-skill",
   "version": "1.0.0",
-  "description": "Match products with optimal influencer profiles based on category alignment, audience demographics, engagement rate, and ROI estimation.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Match products with optimal influencer profiles based on category alignment, audience demographics, engagement rate, and ROI estimation.",
+  "author": "genpark",
   "category": "marketing",
   "tags": [
     "influencer",
