@@ -1,4 +1,4 @@
-# influencer-match-skill
+# genpark-influencer-match-skill
 
 > **GenPark AI Agent Skill** — Match products with optimal influencer profiles based on category, audience fit, engagement rate, and ROI estimation.
 
